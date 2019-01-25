@@ -1,4 +1,2 @@
-# Data-Science-Projects
-This repository consists of all of my Data Science projects on various domains.
+# Telco Customer Churn Prediction
 
-1. Predicting Employee Atrrition Rate of a Company.
